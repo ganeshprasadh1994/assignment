@@ -1,0 +1,75 @@
+h1{
+  background:url('../images/logo.png') no-repeat;
+  text-indent: -9999px;
+  width:200px;
+  height:99px;
+}
+body{
+  margin: auto;
+  background: url('../images/bg6.jpg') no-repeat;
+  background-size: stretch;
+  background-attachment: fixed;
+}
+.main{
+  position: fixed;
+}
+nav li{
+  display:inline;
+  margin-left: 0px;
+  margin-right:40px;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 5px  #ff1a1a;
+}
+nav a{
+  text-decoration: none;
+  color: black;
+}
+nav a:hover{
+  font-size: 30px;
+}
+#h2{
+  font-size: 30px;
+  font-weight: bold;
+  font-family:'Fira Sans',serif;
+}
+ul{
+  margin-left:20px;
+  margin-right:20px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+p{
+ font-weight: bolder;
+ font-family:cursive;
+
+}
+li{
+  font-color:#F9DE03;
+  text-align: center;
+  text-shadow: 4px 4px 8px red;
+  opacity:0.9;
+
+}
+.foot
+{
+  font-size: 12px;
+  font-weight: bolder;
+  text-shadow: 3px 3px 8px #FF0000;
+  font-family: 'Fira Sans', sans-serif;
+}
+.plugin
+{
+  margin-top:0px;
+  float:left;
+  font-size:2em;
+  padding-left: 10px;
+  padding-right:10px;
+}
+#comp{
+  float:right;
+}
+#copy{
+  font-size: 12px;
+}

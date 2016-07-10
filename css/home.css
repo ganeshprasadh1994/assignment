@@ -1,0 +1,83 @@
+h1{
+  background:url('../images/logo.png') no-repeat;
+  text-indent: -9999px;
+  width:200px;
+  height:99px;
+  text-shadow: 2px 2px 6px #F7026E;
+}
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    background-attachment: fixed;
+}
+body{
+  margin: auto;
+  background: url('../videos/intro.mp4') no-repeat;
+  background-size: cover;
+}
+nav{
+  position: fixed;
+}
+nav li{
+  display:inline;
+  margin-left: 0px;
+  margin-right:40px;
+  font-weight: bold;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 20px;
+  text-shadow: 2px 2px 5px  #ff1a1a;
+}
+nav a{
+  text-decoration: none;
+  color: black;
+}
+nav a:hover{
+  font-size: 30px;
+}
+#head2{
+  margin-top: 10px;
+  margin-bottom:10px;
+font-family: 'Noto Serif', serif;
+font-size: 30px;
+}
+.m1
+{
+  margin-right:100px;
+  margin-left:100px;
+  margin-top:30px;
+  margin-bottom:30px;
+  width: 960px;
+  height:400px;
+  animation-duration: 5s;
+  animation-name:slidein;
+}
+.foot
+{
+  font-size: 12px;
+  font-weight: bolder;
+  text-shadow: 3px 3px 8px #FF0000;
+  font-family: 'Fira Sans', sans-serif;
+}
+.plugin
+{
+  margin-top:0px;
+  float:left;
+  font-size:2em;
+  padding-left: 10px;
+  padding-right:10px;
+}
+#comp{
+  float:right;
+}
+.link
+{
+  target="_blank";
+}
+#copy{
+  font-size: 12px;
+}
