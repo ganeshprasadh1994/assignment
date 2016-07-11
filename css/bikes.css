@@ -5,7 +5,7 @@ h1{
   height:99px;
 }
 body{
-  background: url('../images/bg8.jpg') no-repeat;
+  background: url('../images/bg5.jpg') no-repeat;
   background-size:cover;
   background-attachment: fixed;
 }
@@ -43,6 +43,7 @@ section{
 section:hover{
   opacity: 1.5;
   color:green;
+
 }
 img{
   width:350px;
@@ -52,6 +53,8 @@ img{
   padding-top:20px;
   padding-bottom:20px;
   margin-bottom: 10px;
+  background:white;
+  background-blend-mode: lighten;
 }
 .primary{
   float:left;
