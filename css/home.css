@@ -56,12 +56,15 @@ font-size: 30px;
   animation-duration: 5s;
   animation-name:slidein;
 }
+
 .foot
 {
   font-size: 12px;
   font-weight: bolder;
   text-shadow: 3px 3px 8px #FF0000;
   font-family: 'Fira Sans', sans-serif;
+  
+
 }
 .plugin
 {
@@ -70,9 +73,11 @@ font-size: 30px;
   font-size:2em;
   padding-left: 10px;
   padding-right:10px;
+
 }
 #comp{
   float:right;
+
 }
 .link
 {
@@ -80,4 +85,5 @@ font-size: 30px;
 }
 #copy{
   font-size: 12px;
+
 }

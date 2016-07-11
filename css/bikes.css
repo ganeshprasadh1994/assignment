@@ -43,6 +43,7 @@ section{
 section:hover{
   opacity: 1.5;
   color:green;
+  
 
 }
 img{
@@ -55,6 +56,10 @@ img{
   margin-bottom: 10px;
   background:white;
   background-blend-mode: lighten;
+}
+.main{
+  width:1280px;
+  height:auto;
 }
 .primary{
   float:left;

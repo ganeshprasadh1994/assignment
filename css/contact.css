@@ -5,18 +5,11 @@ h1{
   height:99px;
   //position:fixed;
 }
-#jab{
-  margin: auto;
-  margin-bottom: 960px;
-  background: url('../images/contact1.jpg') no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
-  opacity: 0.5;
-}
+
 body{
   margin: auto;
   margin-bottom: 960px;
-  background: url('../images/contact1.jpg') no-repeat;
+  background: url('../images/bg7.jpg') no-repeat;
   background-size: cover;
   background-attachment: fixed;
 
@@ -49,8 +42,9 @@ nav a:hover{
 }
 #h2{
   font-size:30px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Cabin', sans-serif;
   font-style: italic;
+  text-shadow: 2px 2px 2px 8px #BC3CE5;
 }
 #h3{
   font-size:22px;
@@ -72,23 +66,23 @@ p{
   height:280px;
 }
 #text1{
-  color:red;
+  color: red;
   font-weight: bold;
 
 }
 #text2{
-  color:blue;
-  font-weight: bold;
+  color:#E5C10E ;
+    font-weight: bold;
 }
 
 #text3{
-  color:green;
+
   font-weight:bold;
   font-size:22px;
 }
 ul{font-family: 'Proza Libre', sans-serif;
   font-weight: bolder;
-  text-shadow: 3px 3px 8px #C70F60;
+  text-shadow: 3px 3px 8px #04B2CA  ;
 }
 .con1{
   float: left;
