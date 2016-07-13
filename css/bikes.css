@@ -18,10 +18,10 @@ nav{
 }
 nav li{
   display:inline;
-  margin-left: 0px;
-  margin-right:35px;
+  margin-left: 10px;
+  margin-right:10px;
   font-weight: bold;
-  font-family: 'Oswald', sans-serif;
+  font-family: Arial;
   font-size: 20px;
   text-shadow: 2px 2px 5px  #ff1a1a;
 }
@@ -31,6 +31,10 @@ nav a{
 }
 nav a:hover{
   font-size: 30px;
+}
+.body1{
+  text-align: center;
+  margin-left:10px;
 }
 #h2{
   font-size:30px;
@@ -46,7 +50,7 @@ section{
 }
 section:hover{
   opacity: 1.5;
-  color:#E8C4C4  ;
+  color:#0A1EEA  ;
 }
 .a2{
   border: 3px solid #030303 ;
@@ -56,12 +60,9 @@ section:hover{
   margin-bottom:10px;
 }
 img{
-  width:350px;
-  height:350px;
-  padding-left:20px;
-  padding-right:20px;
-  padding-top:20px;
-  padding-bottom:20px;
+  width:290px;
+  height:290px;
+
   margin-bottom: 10px;
   background:white;
   background-blend-mode: lighten;
